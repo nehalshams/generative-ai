@@ -3,10 +3,15 @@ ipykernel
 
 langchain_docling
 docling-core[chunking]
+pypdf
 
 langchain-text-splitters
 
 chromadb
+langchain_chroma
+
+
+rank_bm25
 
 #langchain core
 langchain
